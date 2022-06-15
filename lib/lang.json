@@ -1,0 +1,858 @@
+{
+    "A": [
+        {
+            "name" : "阿拉伯语",
+            "code": "ara"
+        },
+        {
+            "name" : "爱尔兰语",
+            "code": "gle"
+        },
+        {
+            "name" : "奥克语",
+            "code": "oci"
+        },
+        {
+            "name" : "阿尔巴尼亚语",
+            "code": "alb"
+        },
+        {
+            "name" : "阿尔及利亚阿拉伯语",
+            "code": "arq"
+        },
+        {
+            "name" : "阿肯语",
+            "code": "aka"
+        },
+        {
+            "name" : "阿拉贡语",
+            "code": "arg"
+        },
+        {
+            "name" : "阿萨姆语",
+            "code": "asm"
+        },
+        {
+            "name" : "艾马拉语",
+            "code": "aym"
+        },
+        {
+            "name" : "阿塞拜疆语",
+            "code": "aze"
+        },
+        {
+            "name" : "阿斯图里亚斯语",
+            "code": "ast"
+        },
+        {
+            "name" : "奥塞梯语",
+            "code": "oss"
+        },
+        {
+            "name" : "爱沙尼亚语",
+            "code": "est"
+        },
+        {
+            "name" : "奥杰布瓦语",
+            "code": "oji"
+        },
+        {
+            "name" : "奥里亚语",
+            "code": "ori"
+        },
+        {
+            "name" : "奥罗莫语",
+            "code": "orm"
+        }
+    ],
+    "B": [
+        {
+            "name" : "波兰语",
+            "code": "pl"
+        },
+        {
+            "name" : "波斯语",
+            "code": "per"
+        },
+        {
+            "name" : "布列塔尼语",
+            "code": "bre"
+        },
+        {
+            "name" : "巴什基尔语",
+            "code": "bak"
+        },
+        {
+            "name" : "巴斯克语",
+            "code": "baq"
+        },
+        {
+            "name" : "巴西葡萄牙语",
+            "code": "pot"
+        },
+        {
+            "name" : "白俄罗斯语",
+            "code": "bel"
+        },
+        {
+            "name" : "柏柏尔语",
+            "code": "ber"
+        },
+        {
+            "name" : "邦板牙语",
+            "code": "pam"
+        },
+        {
+            "name" : "保加利亚语",
+            "code": "bul"
+        },
+        {
+            "name" : "北方萨米语",
+            "code": "sme"
+        },
+        {
+            "name" : "北索托语",
+            "code": "ped"
+        },
+        {
+            "name" : "本巴语",
+            "code": "bem"
+        },
+        {
+            "name" : "比林语",
+            "code": "bli"
+        },
+        {
+            "name" : "比斯拉马语",
+            "code": "bis"
+        },
+        {
+            "name" : "俾路支语",
+            "code": "bal"
+        },
+        {
+            "name" : "冰岛语",
+            "code": "ice"
+        },
+        {
+            "name" : "冰岛语",
+            "code": "ice"
+        },
+        {
+            "name" : "波斯尼亚语",
+            "code": "bos"
+        },
+        {
+            "name" : "博杰普尔语",
+            "code": "bho"
+        }
+    ],
+    "C": [
+        {
+            "name" : "楚瓦什语",
+            "code": "chv"
+        },
+        {
+            "name" : "聪加语",
+            "code": "tso"
+        }
+    ],
+    "D": [
+        {
+            "name" : "丹麦语",
+            "code": "dan"
+        },
+        {
+            "name" : "德语",
+            "code": "de"
+        },
+        {
+            "name" : "鞑靼语",
+            "code": "tat"
+        },
+        {
+            "name" : "掸语",
+            "code": "sha"
+        },
+        {
+            "name" : "德顿语",
+            "code": "tet"
+        },
+        {
+            "name" : "迪维希语",
+            "code": "div"
+        },
+        {
+            "name" : "低地德语",
+            "code": "log"
+        }
+    ],
+    "E": [
+        {
+            "name" : "俄语",
+            "code": "ru"
+        }
+    ],
+    "F": [
+        {
+            "name" : "法语",
+            "code": "fra"
+        },
+        {
+            "name" : "菲律宾语",
+            "code": "fil"
+        },
+        {
+            "name" : "芬兰语",
+            "code": "fin"
+        },
+        {
+            "name" : "梵语",
+            "code": "san"
+        },
+        {
+            "name" : "弗留利语",
+            "code": "fri"
+        },
+        {
+            "name" : "富拉尼语",
+            "code": "ful"
+        },
+        {
+            "name" : "法罗语",
+            "code": "fao"
+        }
+    ],
+    "G": [
+        {
+            "name" : "盖尔语",
+            "code": "gla"
+        },
+        {
+            "name" : "刚果语",
+            "code": "kon"
+        },
+        {
+            "name" : "高地索布语",
+            "code": "ups"
+        },
+        {
+            "name" : "高棉语",
+            "code": "hkm"
+        },
+        {
+            "name" : "格陵兰语",
+            "code": "kal"
+        },
+        {
+            "name" : "格鲁吉亚语",
+            "code": "geo"
+        },
+        {
+            "name" : "古吉拉特语",
+            "code": "guj"
+        },
+        {
+            "name" : "古希腊语",
+            "code": "gra"
+        },
+        {
+            "name" : "古英语",
+            "code": "eno"
+        },
+        {
+            "name" : "瓜拉尼语",
+            "code": "grn"
+        }
+    ],
+    "H": [
+        {
+            "name" : "韩语",
+            "code": "kor"
+        },
+        {
+            "name" : "荷兰语",
+            "code": "nl"
+        },
+        {
+            "name" : "胡帕语",
+            "code": "hup"
+        },
+        {
+            "name" : "哈卡钦语",
+            "code": "hak"
+        },
+        {
+            "name" : "海地语",
+            "code": "ht"
+        },
+        {
+            "name" : "黑山语",
+            "code": "geo"
+        },
+        {
+            "name" : "古吉拉特语",
+            "code": "mot"
+        },
+        {
+            "name" : "豪萨语",
+            "code": "hau"
+        }
+    ],
+    "J": [
+        {
+            "name" : "吉尔吉斯语",
+            "code": "kir"
+        },
+        {
+            "name" : "加利西亚语",
+            "code": "glg"
+        },
+        {
+            "name" : "加拿大法语",
+            "code": "frn"
+        },
+        {
+            "name" : "加泰罗尼亚语",
+            "code": "cat"
+        },
+        {
+            "name" : "捷克语",
+            "code": "cs"
+        }
+    ],
+    "K": [
+        {
+            "name" : "卡拜尔语",
+            "code": "kab"
+        },
+        {
+            "name" : "卡纳达语",
+            "code": "kan"
+        },
+        {
+            "name" : "卡努里语",
+            "code": "kau"
+        },
+        {
+            "name" : "卡舒比语",
+            "code": "kah"
+        },
+        {
+            "name" : "康瓦尔语",
+            "code": "cor"
+        },
+        {
+            "name" : "科萨语",
+            "code": "xho"
+        },
+        {
+            "name" : "科西嘉语",
+            "code": "cos"
+        },
+        {
+            "name" : "克里克语",
+            "code": "cre"
+        },
+        {
+            "name" : "克里米亚鞑靼语",
+            "code": "cri"
+        },
+        {
+            "name" : "克林贡语",
+            "code": "kli"
+        },
+        {
+            "name" : "克罗地亚语",
+            "code": "hrv"
+        },
+        {
+            "name" : "克丘亚语",
+            "code": "que"
+        },
+        {
+            "name" : "克什米尔语",
+            "code": "kas"
+        },
+        {
+            "name" : "孔卡尼语",
+            "code": "kok"
+        },
+        {
+            "name" : "库尔德语",
+            "code": "kur"
+        }
+    ],
+    "L": [
+        {
+            "name" : "拉丁语",
+            "code": "lat"
+        },
+        {
+            "name" : "老挝语",
+            "code": "lao"
+        },
+        {
+            "name" : "罗马尼亚语",
+            "code": "rom"
+        },
+        {
+            "name" : "拉特加莱语",
+            "code": "lag"
+        },
+        {
+            "name" : "拉脱维亚语",
+            "code": "lav"
+        },
+        {
+            "name" : "林堡语",
+            "code": "lim"
+        },
+        {
+            "name" : "林加拉语",
+            "code": "lin"
+        },
+        {
+            "name" : "卢干达语",
+            "code": "lug"
+        },
+        {
+            "name" : "卢森堡语",
+            "code": "ltz"
+        },
+        {
+            "name" : "卢森尼亚语",
+            "code": "ruy"
+        },
+        {
+            "name" : "卢旺达语",
+            "code": "kin"
+        },
+        {
+            "name" : "立陶宛语",
+            "code": "lit"
+        },
+        {
+            "name" : "罗曼什语",
+            "code": "roh"
+        },
+        {
+            "name" : "罗姆语",
+            "code": "ro"
+        },
+        {
+            "name" : "逻辑语",
+            "code": "loj"
+        }
+    ],
+    "M": [
+        {
+            "name" : "马来语",
+            "code": "may"
+        },
+        {
+            "name" : "缅甸语",
+            "code": "lao"
+        },
+        {
+            "name" : "罗马尼亚语",
+            "code": "bur"
+        },
+        {
+            "name" : "马拉地语",
+            "code": "mar"
+        },
+        {
+            "name" : "马拉加斯语",
+            "code": "mg"
+        },
+        {
+            "name" : "马拉雅拉姆语",
+            "code": "mal"
+        },
+        {
+            "name" : "马其顿语",
+            "code": "mac"
+        },
+        {
+            "name" : "马绍尔语",
+            "code": "mah"
+        },
+        {
+            "name" : "迈蒂利语",
+            "code": "mai"
+        },
+        {
+            "name" : "曼克斯语",
+            "code": "glv"
+        },
+        {
+            "name" : "毛里求斯克里奥尔语",
+            "code": "mau"
+        },
+        {
+            "name" : "毛利语",
+            "code": "mao"
+        },
+        {
+            "name" : "孟加拉语",
+            "code": "ben"
+        },
+        {
+            "name" : "马耳他语",
+            "code": "mlt"
+        },
+        {
+            "name" : "苗语",
+            "code": "hmn"
+        }
+    ],
+    "N": [
+        {
+            "name" : "挪威语",
+            "code": "nor"
+        },
+        {
+            "name" : "那不勒斯语",
+            "code": "nea"
+        },
+        {
+            "name" : "南恩德贝莱语",
+            "code": "nbl"
+        },
+        {
+            "name" : "南非荷兰语",
+            "code": "afr"
+        },
+        {
+            "name" : "南索托语",
+            "code": "sot"
+        },
+        {
+            "name" : "尼泊尔语",
+            "code": "nep"
+        }
+    ],
+    "P": [
+        {
+            "name" : "葡萄牙语",
+            "code": "pt"
+        },
+        {
+            "name" : "旁遮普语",
+            "code": "pan"
+        },
+        {
+            "name" : "帕皮阿门托语",
+            "code": "pap"
+        },
+        {
+            "name" : "普什图语",
+            "code": "pus"
+        }
+    ],
+    "Q": [
+        {
+            "name" : "齐切瓦语",
+            "code": "nya"
+        },
+        {
+            "name" : "契维语",
+            "code": "twi"
+        },
+        {
+            "name" : "切罗基语",
+            "code": "chr"
+        }
+    ], 
+    "R": [
+        {
+            "name" : "日语",
+            "code": "jp"
+        },
+        {
+            "name" : "瑞典语",
+            "code": "swe"
+        }
+    ],     
+    "S": [
+        {
+            "name" : "萨丁尼亚语",
+            "code": "srd"
+        },
+        {
+            "name" : "萨摩亚语",
+            "code": "sm"
+        },
+        {
+            "name" : "塞尔维亚-克罗地亚语",
+            "code": "sec"
+        },
+        {
+            "name" : "塞尔维亚语",
+            "code": "srp"
+        },
+        {
+            "name" : "桑海语",
+            "code": "sol"
+        },
+        {
+            "name" : "僧伽罗语",
+            "code": "sin"
+        },
+        {
+            "name" : "世界语",
+            "code": "epo"
+        },
+        {
+            "name" : "书面挪威语",
+            "code": "nob"
+        },
+        {
+            "name" : "斯洛伐克语",
+            "code": "sk"
+        },
+        {
+            "name" : "斯洛文尼亚语",
+            "code": "slo"
+        },
+        {
+            "name" : "斯瓦希里语",
+            "code": "swa"
+        },
+        {
+            "name" : "塞尔维亚语（西里尔）",
+            "code": "src"
+        },
+        {
+            "name" : "索马里语",
+            "code": "som"
+        }
+    ],      
+    "T": [
+        {
+            "name" : "泰语",
+            "code": "th"
+        },
+        {
+            "name" : "土耳其语",
+            "code": "tr"
+        },
+        {
+            "name" : "塔吉克语",
+            "code": "tgk"
+        },
+        {
+            "name" : "泰米尔语",
+            "code": "tam"
+        },
+        {
+            "name" : "他加禄语",
+            "code": "tgl"
+        },
+        {
+            "name" : "提格利尼亚语",
+            "code": "tir"
+        },
+        {
+            "name" : "泰卢固语",
+            "code": "tel"
+        },
+        {
+            "name" : "突尼斯阿拉伯语",
+            "code": "tua"
+        },
+        {
+            "name" : "土库曼语",
+            "code": "tuk"
+        }
+    ], 
+    "W": [
+        {
+            "name" : "乌克兰语",
+            "code": "ukr"
+        },
+        {
+            "name" : "瓦隆语",
+            "code": "wln"
+        },
+        {
+            "name" : "威尔士语",
+            "code": "wel"
+        },
+        {
+            "name" : "文达语",
+            "code": "ven"
+        },
+        {
+            "name" : "沃洛夫语",
+            "code": "wol"
+        },
+        {
+            "name" : "乌尔都语",
+            "code": "urd"
+        }
+    ],  
+    "X": [
+        {
+            "name" : "西班牙语",
+            "code": "spa"
+        },
+        {
+            "name" : "希伯来语",
+            "code": "heb"
+        },
+        {
+            "name" : "希腊语",
+            "code": "el"
+        },
+        {
+            "name" : "匈牙利语",
+            "code": "hu"
+        },
+        {
+            "name" : "西弗里斯语",
+            "code": "fry"
+        },
+        {
+            "name" : "西里西亚语",
+            "code": "sil"
+        },
+        {
+            "name" : "希利盖农语",
+            "code": "hil"
+        },
+        {
+            "name" : "下索布语",
+            "code": "los"
+        },
+        {
+            "name" : "夏威夷语",
+            "code": "haw"
+        },
+        {
+            "name" : "新挪威语",
+            "code": "nno"
+        },
+        {
+            "name" : "西非书面语",
+            "code": "nqo"
+        },
+        {
+            "name" : "信德语",
+            "code": "snd"
+        },
+        {
+            "name" : "修纳语",
+            "code": "sna"
+        },
+        {
+            "name" : "宿务语",
+            "code": "ceb"
+        },
+        {
+            "name" : "叙利亚语",
+            "code": "syr"
+        },
+        {
+            "name" : "巽他语",
+            "code": "sun"
+        }
+    ],  
+    "Y": [
+        {
+            "name" : "英语",
+            "code": "en"
+        },
+        {
+            "name" : "印地语",
+            "code": "hi"
+        },
+        {
+            "name" : "印尼语",
+            "code": "id"
+        },
+        {
+            "name" : "意大利语",
+            "code": "it"
+        },
+        {
+            "name" : "越南语",
+            "code": "vie"
+        },
+        {
+            "name" : "意第绪语",
+            "code": "yid"
+        },
+        {
+            "name" : "因特语",
+            "code": "ina"
+        },
+        {
+            "name" : "亚齐语",
+            "code": "ach"
+        },
+        {
+            "name" : "印古什语",
+            "code": "ing"
+        },
+        {
+            "name" : "伊博语",
+            "code": "ibo"
+        },
+        {
+            "name" : "伊多语",
+            "code": "ido"
+        },
+        {
+            "name" : "约鲁巴语",
+            "code": "yor"
+        },
+        {
+            "name" : "亚美尼亚语",
+            "code": "arm"
+        },
+        {
+            "name" : "伊努克提图特语",
+            "code": "iku"
+        },
+        {
+            "name" : "伊朗语",
+            "code": "ir"
+        }
+    ],
+    "Z": [
+        {
+            "name" : "中文(简体)",
+            "code": "zh"
+        },
+        {
+            "name" : "中文(繁体)",
+            "code": "cht"
+        },
+        {
+            "name" : "中文(文言文)",
+            "code": "wyw"
+        },
+        {
+            "name" : "中文(粤语)",
+            "code": "yue"
+        },
+        {
+            "name" : "扎扎其语",
+            "code": "zaz"
+        },
+        {
+            "name" : "中古法语",
+            "code": "frm"
+        },
+        {
+            "name" : "祖鲁语",
+            "code": "zul"
+        },
+        {
+            "name" : "爪哇语",
+            "code": "jav"
+        }
+    ]
+}
