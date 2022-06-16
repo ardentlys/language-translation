@@ -1,6 +1,6 @@
 {
   "name": "language-translation",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -13,7 +13,7 @@
     "email": "1317948850@qq.com",
     "name": "miaoshiyi"
   },
-  "homepage": "",
+  "homepage": "https://github.com/itrengyuan/language-translation",
   "license": "ISC",
   "dependencies": {
     "MD5": "^1.3.0",
